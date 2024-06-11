@@ -1,0 +1,14 @@
+
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+
+
+dist/
+build/
+*.engg-info/
+
+
+venv/
